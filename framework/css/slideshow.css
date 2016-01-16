@@ -354,3 +354,14 @@ iframe.csss-import.show {
 .presenter .slide:target > .presenter-notes {
 	display: block;
 }
+
+/********************
+* Added by JJ
+********************/
+
+em img {
+	width: auto;
+    height: 110px;
+    float: left;
+    padding-right: 2em;
+}

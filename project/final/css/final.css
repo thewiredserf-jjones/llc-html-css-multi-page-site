@@ -88,11 +88,11 @@ blockquote p {
 
 /* CONTACT STYLES
 -----------------------------------------*/
-.contact {
+.contact, .about {
   background: url(../images/background-8.jpg) no-repeat 50%;
   background-size: cover;
 }
-.contact main {
+.contact main, .about main {
   background: rgba(255, 255, 255, 0.7);
   padding-top: 40px;
   padding-bottom: 40px;
@@ -148,5 +148,8 @@ footer {
 }
 
 
-
-
+/* additional adjustments jj 
+-----------------------------------------*/
+.profile-img {
+  width:20%;
+}
